@@ -1,0 +1,233 @@
+.head{
+    background-image: url(bgdesktop.svg);
+    background-repeat: no-repeat;
+    
+}
+.b-tn{
+    float:right;
+    margin: 40px 50px 0px 0px;
+    width: 130px;
+    padding: 5px;
+    background: white;
+    border-radius: 30px;
+    border:4px white;
+    font-weight: bolder;
+
+
+}
+.img-logo{
+    margin: 40px 0px 0px 70px;
+}
+.sectA-content{
+    margin: 130px 0px 0px 70px;
+}
+.img-mockup{
+    float: right;
+    width: 50%;
+    margin: -300px 50px 0px 0px;
+}
+.sectA-title{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    line-height:1;
+}
+.sectA-desc{
+    margin-top:2px ;
+}
+.sectA-btn{
+    width: 200px;
+    padding:14px;
+    border-radius: 20px;
+    color: white;
+    background: hsl(322, 100%, 66%);
+    border: hsl(322, 100%, 66%);
+}
+.sect-B{
+    width: 1000px;
+    height: 400px;
+    display: flex;
+    margin: 250px 30px 50px 150px ;
+    border: 4px solid rgb(245, 243, 243);
+    border-radius: 15px;
+}
+.sectB-content{
+    flex: 1;
+    padding: 120px 120px 120px 80px;
+    margin-top:5px ;
+    
+}
+.sectB-title{
+    font-family: 'Poppins', sans-serif;
+
+}
+.sectB-desc{
+    color:gray ;
+}
+.sectB-img{
+    flex: 1;
+}
+.img-grow{
+    width: 90%;
+    padding-top:50px ;
+}
+.sectC{
+    width: 1000px;
+    height: 400px;
+    display: flex;
+    margin: 50px 30px 50px 150px ;
+    border: 4px solid rgb(245, 243, 243);
+    border-radius: 15px;
+
+}
+.sectC-content{
+    flex: 1;
+    padding: 120px 80px 120px 120px;
+}
+.sectC-img{
+    flex: 1;
+
+}
+.img-convo{
+    width: 95%;
+    padding: 60px 40px;
+}
+
+.sectC-title{
+    font-family: 'Poppins', sans-serif;
+
+}
+.sectC-desc{
+    color:gray ;
+}
+
+
+.sect-D{
+    width: 1000px;
+    height: 400px;
+    display: flex;
+    margin: 50px 30px 50px 150px ;
+    border: 4px solid rgb(245, 243, 243);
+    border-radius: 15px;
+}
+.sectD-content{
+    flex: 1;
+    padding: 120px 120px 120px 80px;
+    margin-top:5px ;
+    
+}
+.sectD-title{
+    font-family: 'Poppins', sans-serif;
+
+}
+.sectD-desc{
+    color:gray ;
+}
+.sectD-img{
+    flex: 1;
+}
+.img-users{
+    width: 90%;
+    padding-top:50px ;
+}
+.sectE{
+    position:absolute;
+    width: 600px;
+    height: 200px;
+    background: white;
+    border: 9px solid white;
+    margin: 100px 90px 30px 340px;
+    z-index: 1;
+    border-radius: 9px;
+}
+.sectE-title{
+    padding: 30px 20px 30px 130px;
+}
+.sectE-btn{
+    width: 240px;
+    padding:15px;
+    margin: -220px 0px 200px 180px;
+    border-radius: 20px;
+    color: white;
+    background: hsl(322, 100%, 66%);
+    border: hsl(322, 100%, 66%);
+}
+.sectF{
+    width: 100%;
+    height: 500px;
+    background: hsl(192, 100%, 9%);
+    margin-top: 300px;
+    display: flex;
+} 
+.sectF-logo{
+    padding-bottom:20px ;
+}
+.sectF-content{
+    margin: 150px 170px;
+}
+.locate-img{
+    margin-top:20px ;
+}
+.phone-img{
+    margin-top:39px ;
+}
+.email-img{
+    margin-top:40px ;
+}
+.phone-no{
+    margin-left:15px ;
+}
+.sectF-logo{
+    color: white;
+}
+.loc-desc{
+    color: white;
+    margin:-24px 20px 0px 30px ;
+}
+.phone-no{
+    color: white;
+    margin:-22px 20px 0px 30px ;
+}
+.email-no{
+    color: white;
+    margin:-24px 20px 0px 30px ;
+}
+.links{
+    color: white;
+}
+.link{
+    color: white;
+}
+.linking{
+    color: white;
+}
+
+.about{
+    margin-top: 190px ;
+    margin-left:-110px ;
+}
+.links{
+    list-style: none;
+    padding-bottom: 30px;
+}
+.contact{
+    margin-top: 190px ;
+    margin-left:70px ;
+}
+.link{
+    list-style: none;
+    padding-bottom: 30px;
+}
+.icon-s{
+    margin-top: 210px ;
+    margin-left:50px ;
+    display: flex;
+}
+.icon-svg{
+    padding-right:20px ;
+    list-style: none;
+    padding-bottom: 30px;
+}
+.linking{
+    margin-top:450px ;
+    margin-right:-300px ;
+}
