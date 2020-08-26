@@ -1,7 +1,8 @@
 .head{
-    background-image: url(bgdesktop.svg);
+    background-image: url(../images/bgdesktop.svg);
     background-repeat: no-repeat;
-    
+    background-color:aliceblue ;
+    height: 700px;
 }
 .b-tn{
     float:right;
@@ -43,10 +44,10 @@
     border: hsl(322, 100%, 66%);
 }
 .sect-B{
-    width: 1000px;
+    width: 1200px;
     height: 400px;
     display: flex;
-    margin: 250px 30px 50px 150px ;
+    margin: 120px 30px 50px 75px ;
     border: 4px solid rgb(245, 243, 243);
     border-radius: 15px;
 }
@@ -71,10 +72,10 @@
     padding-top:50px ;
 }
 .sectC{
-    width: 1000px;
+    width: 1200px;
     height: 400px;
     display: flex;
-    margin: 50px 30px 50px 150px ;
+    margin: 50px 30px 50px 75px ;
     border: 4px solid rgb(245, 243, 243);
     border-radius: 15px;
 
@@ -102,10 +103,10 @@
 
 
 .sect-D{
-    width: 1000px;
+    width: 1200px;
     height: 400px;
     display: flex;
-    margin: 50px 30px 50px 150px ;
+    margin: 50px 30px 50px 75px ;
     border: 4px solid rgb(245, 243, 243);
     border-radius: 15px;
 }
